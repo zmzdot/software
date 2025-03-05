@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#-projects\\Calculator1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DDC4E48B-010D-450F-9128-22C21E802D1D}|C#Class1\\C#Class1.csproj|d:\\c#-projects\\calculator1\\c#class1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDC4E48B-010D-450F-9128-22C21E802D1D}|C#Class1\\C#Class1.csproj|solutionrelative:c#class1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#-projects\\Calculator1\\C#Class1\\Program.cs",
+              "RelativeDocumentMoniker": "C#Class1\\Program.cs",
+              "ToolTip": "D:\\C#-projects\\Calculator1\\C#Class1\\Program.cs",
+              "RelativeToolTip": "C#Class1\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAmwCUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T09:49:30.82Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
