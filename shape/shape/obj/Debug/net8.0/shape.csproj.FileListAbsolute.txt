@@ -1,0 +1,14 @@
+D:\C#-projects\shape\shape\bin\Debug\net8.0\shape.exe
+D:\C#-projects\shape\shape\bin\Debug\net8.0\shape.deps.json
+D:\C#-projects\shape\shape\bin\Debug\net8.0\shape.runtimeconfig.json
+D:\C#-projects\shape\shape\bin\Debug\net8.0\shape.dll
+D:\C#-projects\shape\shape\bin\Debug\net8.0\shape.pdb
+D:\C#-projects\shape\shape\obj\Debug\net8.0\shape.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#-projects\shape\shape\obj\Debug\net8.0\shape.AssemblyInfoInputs.cache
+D:\C#-projects\shape\shape\obj\Debug\net8.0\shape.AssemblyInfo.cs
+D:\C#-projects\shape\shape\obj\Debug\net8.0\shape.csproj.CoreCompileInputs.cache
+D:\C#-projects\shape\shape\obj\Debug\net8.0\shape.dll
+D:\C#-projects\shape\shape\obj\Debug\net8.0\refint\shape.dll
+D:\C#-projects\shape\shape\obj\Debug\net8.0\shape.pdb
+D:\C#-projects\shape\shape\obj\Debug\net8.0\shape.genruntimeconfig.cache
+D:\C#-projects\shape\shape\obj\Debug\net8.0\ref\shape.dll
