@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\C#-projects\\OrderManagementWinForm2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7B239442-D6A5-41A1-8D68-B11858BAB9E4}|..\\assignment5\\OrderManagement\\OrderManagement\\OrderManagement.csproj|d:\\c#-projects\\assignment5\\ordermanagement\\ordermanagement\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2C40-6C38-44CA-AE64-2ACF347E9148}|OrderManagementWinForm2\\OrderManagementWinForm2.csproj|d:\\c#-projects\\ordermanagementwinform2\\ordermanagementwinform2\\ordereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E2C40-6C38-44CA-AE64-2ACF347E9148}|OrderManagementWinForm2\\OrderManagementWinForm2.csproj|solutionrelative:ordermanagementwinform2\\ordereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2C40-6C38-44CA-AE64-2ACF347E9148}|OrderManagementWinForm2\\OrderManagementWinForm2.csproj|d:\\c#-projects\\ordermanagementwinform2\\ordermanagementwinform2\\ordereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{351E2C40-6C38-44CA-AE64-2ACF347E9148}|OrderManagementWinForm2\\OrderManagementWinForm2.csproj|solutionrelative:ordermanagementwinform2\\ordereditform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2C40-6C38-44CA-AE64-2ACF347E9148}|OrderManagementWinForm2\\OrderManagementWinForm2.csproj|d:\\c#-projects\\ordermanagementwinform2\\ordermanagementwinform2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{351E2C40-6C38-44CA-AE64-2ACF347E9148}|OrderManagementWinForm2\\OrderManagementWinForm2.csproj|solutionrelative:ordermanagementwinform2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B239442-D6A5-41A1-8D68-B11858BAB9E4}|..\\assignment5\\OrderManagement\\OrderManagement\\OrderManagement.csproj|d:\\c#-projects\\assignment5\\ordermanagement\\ordermanagement\\models\\orderdetails.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B239442-D6A5-41A1-8D68-B11858BAB9E4}|..\\assignment5\\OrderManagement\\OrderManagement\\OrderManagement.csproj|d:\\c#-projects\\assignment5\\ordermanagement\\ordermanagement\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B239442-D6A5-41A1-8D68-B11858BAB9E4}|..\\assignment5\\OrderManagement\\OrderManagement\\OrderManagement.csproj|d:\\c#-projects\\assignment5\\ordermanagement\\ordermanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{351E2C40-6C38-44CA-AE64-2ACF347E9148}|OrderManagementWinForm2\\OrderManagementWinForm2.csproj|d:\\c#-projects\\ordermanagementwinform2\\ordermanagementwinform2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{351E2C40-6C38-44CA-AE64-2ACF347E9148}|OrderManagementWinForm2\\OrderManagementWinForm2.csproj|solutionrelative:ordermanagementwinform2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\C#-projects\\assignment5\\OrderManagement\\OrderManagement\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "..\\assignment5\\OrderManagement\\OrderManagement\\Services\\OrderService.cs",
+              "ToolTip": "D:\\C#-projects\\assignment5\\OrderManagement\\OrderManagement\\Services\\OrderService.cs",
+              "RelativeToolTip": "..\\assignment5\\OrderManagement\\OrderManagement\\Services\\OrderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T11:09:52.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrderDetails.cs",
+              "DocumentMoniker": "D:\\C#-projects\\assignment5\\OrderManagement\\OrderManagement\\Models\\OrderDetails.cs",
+              "RelativeDocumentMoniker": "..\\assignment5\\OrderManagement\\OrderManagement\\Models\\OrderDetails.cs",
+              "ToolTip": "D:\\C#-projects\\assignment5\\OrderManagement\\OrderManagement\\Models\\OrderDetails.cs",
+              "RelativeToolTip": "..\\assignment5\\OrderManagement\\OrderManagement\\Models\\OrderDetails.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:56:31.942Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\C#-projects\\assignment5\\OrderManagement\\OrderManagement\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "..\\assignment5\\OrderManagement\\OrderManagement\\Models\\Order.cs",
+              "ToolTip": "D:\\C#-projects\\assignment5\\OrderManagement\\OrderManagement\\Models\\Order.cs",
+              "RelativeToolTip": "..\\assignment5\\OrderManagement\\OrderManagement\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T15:52:25.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\C#-projects\\OrderManagementWinForm2\\OrderManagementWinForm2\\Form1.cs",
+              "RelativeDocumentMoniker": "OrderManagementWinForm2\\Form1.cs",
+              "ToolTip": "D:\\C#-projects\\OrderManagementWinForm2\\OrderManagementWinForm2\\Form1.cs",
+              "RelativeToolTip": "OrderManagementWinForm2\\Form1.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAQwD4AAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:50:45.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderEditForm.cs",
+              "DocumentMoniker": "D:\\C#-projects\\OrderManagementWinForm2\\OrderManagementWinForm2\\OrderEditForm.cs",
+              "RelativeDocumentMoniker": "OrderManagementWinForm2\\OrderEditForm.cs",
+              "ToolTip": "D:\\C#-projects\\OrderManagementWinForm2\\OrderManagementWinForm2\\OrderEditForm.cs",
+              "RelativeToolTip": "OrderManagementWinForm2\\OrderEditForm.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAUwDsAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T14:04:59.269Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrderEditForm.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#-projects\\OrderManagementWinForm2\\OrderManagementWinForm2\\OrderEditForm.cs",
+              "RelativeDocumentMoniker": "OrderManagementWinForm2\\OrderEditForm.cs",
+              "ToolTip": "D:\\C#-projects\\OrderManagementWinForm2\\OrderManagementWinForm2\\OrderEditForm.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OrderManagementWinForm2\\OrderEditForm.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:54:17.209Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\C#-projects\\assignment5\\OrderManagement\\OrderManagement\\Program.cs",
+              "RelativeDocumentMoniker": "..\\assignment5\\OrderManagement\\OrderManagement\\Program.cs",
+              "ToolTip": "D:\\C#-projects\\assignment5\\OrderManagement\\OrderManagement\\Program.cs",
+              "RelativeToolTip": "..\\assignment5\\OrderManagement\\OrderManagement\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwgAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T13:03:44.571Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [\u8BBE\u8BA1]",
+              "DocumentMoniker": "D:\\C#-projects\\OrderManagementWinForm2\\OrderManagementWinForm2\\Form1.cs",
+              "RelativeDocumentMoniker": "OrderManagementWinForm2\\Form1.cs",
+              "ToolTip": "D:\\C#-projects\\OrderManagementWinForm2\\OrderManagementWinForm2\\Form1.cs [\u8BBE\u8BA1]",
+              "RelativeToolTip": "OrderManagementWinForm2\\Form1.cs [\u8BBE\u8BA1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-30T12:50:03.944Z",
+              "EditorCaption": " [\u8BBE\u8BA1]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
